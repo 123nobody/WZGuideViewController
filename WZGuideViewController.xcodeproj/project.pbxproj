@@ -18,6 +18,25 @@
 		B629D98F16EDA9A8002D80E4 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B629D98E16EDA9A8002D80E4 /* Default-568h@2x.png */; };
 		B629D99216EDA9A8002D80E4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B629D99116EDA9A8002D80E4 /* ViewController.m */; };
 		B629D99516EDA9A8002D80E4 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B629D99316EDA9A8002D80E4 /* ViewController.xib */; };
+		B629D99E16EDAABA002D80E4 /* WZGuideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B629D99D16EDAABA002D80E4 /* WZGuideViewController.m */; };
+		B6E8C69916EDCA1E00ACE4D1 /* btn_leftArrow_nor.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C68716EDCA1E00ACE4D1 /* btn_leftArrow_nor.png */; };
+		B6E8C69A16EDCA1E00ACE4D1 /* btn_leftArrow_nor@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C68816EDCA1E00ACE4D1 /* btn_leftArrow_nor@2x.png */; };
+		B6E8C69B16EDCA1E00ACE4D1 /* btn_nor.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C68916EDCA1E00ACE4D1 /* btn_nor.png */; };
+		B6E8C69C16EDCA1E00ACE4D1 /* btn_nor@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C68A16EDCA1E00ACE4D1 /* btn_nor@2x.png */; };
+		B6E8C69D16EDCA1E00ACE4D1 /* btn_press.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C68B16EDCA1E00ACE4D1 /* btn_press.png */; };
+		B6E8C69E16EDCA1E00ACE4D1 /* btn_press@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C68C16EDCA1E00ACE4D1 /* btn_press@2x.png */; };
+		B6E8C69F16EDCA1E00ACE4D1 /* checkBox_blankCheck.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C68D16EDCA1E00ACE4D1 /* checkBox_blankCheck.png */; };
+		B6E8C6A016EDCA1E00ACE4D1 /* checkBox_blankCheck@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C68E16EDCA1E00ACE4D1 /* checkBox_blankCheck@2x.png */; };
+		B6E8C6A116EDCA1E00ACE4D1 /* checkBox_selectCheck.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C68F16EDCA1E00ACE4D1 /* checkBox_selectCheck.png */; };
+		B6E8C6A216EDCA1E00ACE4D1 /* checkBox_selectCheck@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C69016EDCA1E00ACE4D1 /* checkBox_selectCheck@2x.png */; };
+		B6E8C6A316EDCA1E00ACE4D1 /* walkthroughs_1.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C69116EDCA1E00ACE4D1 /* walkthroughs_1.png */; };
+		B6E8C6A416EDCA1E00ACE4D1 /* walkthroughs_1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C69216EDCA1E00ACE4D1 /* walkthroughs_1@2x.png */; };
+		B6E8C6A516EDCA1E00ACE4D1 /* walkthroughs_2.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C69316EDCA1E00ACE4D1 /* walkthroughs_2.png */; };
+		B6E8C6A616EDCA1E00ACE4D1 /* walkthroughs_2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C69416EDCA1E00ACE4D1 /* walkthroughs_2@2x.png */; };
+		B6E8C6A716EDCA1E00ACE4D1 /* walkthroughs_3.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C69516EDCA1E00ACE4D1 /* walkthroughs_3.png */; };
+		B6E8C6A816EDCA1E00ACE4D1 /* walkthroughs_3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C69616EDCA1E00ACE4D1 /* walkthroughs_3@2x.png */; };
+		B6E8C6A916EDCA1E00ACE4D1 /* walkthroughs_4.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C69716EDCA1E00ACE4D1 /* walkthroughs_4.png */; };
+		B6E8C6AA16EDCA1E00ACE4D1 /* walkthroughs_4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E8C69816EDCA1E00ACE4D1 /* walkthroughs_4@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +56,26 @@
 		B629D99016EDA9A8002D80E4 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		B629D99116EDA9A8002D80E4 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		B629D99416EDA9A8002D80E4 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		B629D99C16EDAABA002D80E4 /* WZGuideViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WZGuideViewController.h; sourceTree = "<group>"; };
+		B629D99D16EDAABA002D80E4 /* WZGuideViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WZGuideViewController.m; sourceTree = "<group>"; };
+		B6E8C68716EDCA1E00ACE4D1 /* btn_leftArrow_nor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_leftArrow_nor.png; sourceTree = "<group>"; };
+		B6E8C68816EDCA1E00ACE4D1 /* btn_leftArrow_nor@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn_leftArrow_nor@2x.png"; sourceTree = "<group>"; };
+		B6E8C68916EDCA1E00ACE4D1 /* btn_nor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_nor.png; sourceTree = "<group>"; };
+		B6E8C68A16EDCA1E00ACE4D1 /* btn_nor@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn_nor@2x.png"; sourceTree = "<group>"; };
+		B6E8C68B16EDCA1E00ACE4D1 /* btn_press.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_press.png; sourceTree = "<group>"; };
+		B6E8C68C16EDCA1E00ACE4D1 /* btn_press@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn_press@2x.png"; sourceTree = "<group>"; };
+		B6E8C68D16EDCA1E00ACE4D1 /* checkBox_blankCheck.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checkBox_blankCheck.png; sourceTree = "<group>"; };
+		B6E8C68E16EDCA1E00ACE4D1 /* checkBox_blankCheck@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "checkBox_blankCheck@2x.png"; sourceTree = "<group>"; };
+		B6E8C68F16EDCA1E00ACE4D1 /* checkBox_selectCheck.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checkBox_selectCheck.png; sourceTree = "<group>"; };
+		B6E8C69016EDCA1E00ACE4D1 /* checkBox_selectCheck@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "checkBox_selectCheck@2x.png"; sourceTree = "<group>"; };
+		B6E8C69116EDCA1E00ACE4D1 /* walkthroughs_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = walkthroughs_1.png; sourceTree = "<group>"; };
+		B6E8C69216EDCA1E00ACE4D1 /* walkthroughs_1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "walkthroughs_1@2x.png"; sourceTree = "<group>"; };
+		B6E8C69316EDCA1E00ACE4D1 /* walkthroughs_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = walkthroughs_2.png; sourceTree = "<group>"; };
+		B6E8C69416EDCA1E00ACE4D1 /* walkthroughs_2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "walkthroughs_2@2x.png"; sourceTree = "<group>"; };
+		B6E8C69516EDCA1E00ACE4D1 /* walkthroughs_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = walkthroughs_3.png; sourceTree = "<group>"; };
+		B6E8C69616EDCA1E00ACE4D1 /* walkthroughs_3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "walkthroughs_3@2x.png"; sourceTree = "<group>"; };
+		B6E8C69716EDCA1E00ACE4D1 /* walkthroughs_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = walkthroughs_4.png; sourceTree = "<group>"; };
+		B6E8C69816EDCA1E00ACE4D1 /* walkthroughs_4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "walkthroughs_4@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +122,7 @@
 		B629D97E16EDA9A8002D80E4 /* WZGuideViewController */ = {
 			isa = PBXGroup;
 			children = (
+				B629D99B16EDAA6C002D80E4 /* Classes */,
 				B629D98716EDA9A8002D80E4 /* AppDelegate.h */,
 				B629D98816EDA9A8002D80E4 /* AppDelegate.m */,
 				B629D99016EDA9A8002D80E4 /* ViewController.h */,
@@ -96,6 +136,7 @@
 		B629D97F16EDA9A8002D80E4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B629D9A016EDC0CB002D80E4 /* Image */,
 				B629D98016EDA9A8002D80E4 /* WZGuideViewController-Info.plist */,
 				B629D98116EDA9A8002D80E4 /* InfoPlist.strings */,
 				B629D98416EDA9A8002D80E4 /* main.m */,
@@ -105,6 +146,41 @@
 				B629D98E16EDA9A8002D80E4 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B629D99B16EDAA6C002D80E4 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				B629D99C16EDAABA002D80E4 /* WZGuideViewController.h */,
+				B629D99D16EDAABA002D80E4 /* WZGuideViewController.m */,
+			);
+			name = Classes;
+			path = classes;
+			sourceTree = "<group>";
+		};
+		B629D9A016EDC0CB002D80E4 /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				B6E8C68716EDCA1E00ACE4D1 /* btn_leftArrow_nor.png */,
+				B6E8C68816EDCA1E00ACE4D1 /* btn_leftArrow_nor@2x.png */,
+				B6E8C68916EDCA1E00ACE4D1 /* btn_nor.png */,
+				B6E8C68A16EDCA1E00ACE4D1 /* btn_nor@2x.png */,
+				B6E8C68B16EDCA1E00ACE4D1 /* btn_press.png */,
+				B6E8C68C16EDCA1E00ACE4D1 /* btn_press@2x.png */,
+				B6E8C68D16EDCA1E00ACE4D1 /* checkBox_blankCheck.png */,
+				B6E8C68E16EDCA1E00ACE4D1 /* checkBox_blankCheck@2x.png */,
+				B6E8C68F16EDCA1E00ACE4D1 /* checkBox_selectCheck.png */,
+				B6E8C69016EDCA1E00ACE4D1 /* checkBox_selectCheck@2x.png */,
+				B6E8C69116EDCA1E00ACE4D1 /* walkthroughs_1.png */,
+				B6E8C69216EDCA1E00ACE4D1 /* walkthroughs_1@2x.png */,
+				B6E8C69316EDCA1E00ACE4D1 /* walkthroughs_2.png */,
+				B6E8C69416EDCA1E00ACE4D1 /* walkthroughs_2@2x.png */,
+				B6E8C69516EDCA1E00ACE4D1 /* walkthroughs_3.png */,
+				B6E8C69616EDCA1E00ACE4D1 /* walkthroughs_3@2x.png */,
+				B6E8C69716EDCA1E00ACE4D1 /* walkthroughs_4.png */,
+				B6E8C69816EDCA1E00ACE4D1 /* walkthroughs_4@2x.png */,
+			);
+			path = Image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +239,24 @@
 				B629D98D16EDA9A8002D80E4 /* Default@2x.png in Resources */,
 				B629D98F16EDA9A8002D80E4 /* Default-568h@2x.png in Resources */,
 				B629D99516EDA9A8002D80E4 /* ViewController.xib in Resources */,
+				B6E8C69916EDCA1E00ACE4D1 /* btn_leftArrow_nor.png in Resources */,
+				B6E8C69A16EDCA1E00ACE4D1 /* btn_leftArrow_nor@2x.png in Resources */,
+				B6E8C69B16EDCA1E00ACE4D1 /* btn_nor.png in Resources */,
+				B6E8C69C16EDCA1E00ACE4D1 /* btn_nor@2x.png in Resources */,
+				B6E8C69D16EDCA1E00ACE4D1 /* btn_press.png in Resources */,
+				B6E8C69E16EDCA1E00ACE4D1 /* btn_press@2x.png in Resources */,
+				B6E8C69F16EDCA1E00ACE4D1 /* checkBox_blankCheck.png in Resources */,
+				B6E8C6A016EDCA1E00ACE4D1 /* checkBox_blankCheck@2x.png in Resources */,
+				B6E8C6A116EDCA1E00ACE4D1 /* checkBox_selectCheck.png in Resources */,
+				B6E8C6A216EDCA1E00ACE4D1 /* checkBox_selectCheck@2x.png in Resources */,
+				B6E8C6A316EDCA1E00ACE4D1 /* walkthroughs_1.png in Resources */,
+				B6E8C6A416EDCA1E00ACE4D1 /* walkthroughs_1@2x.png in Resources */,
+				B6E8C6A516EDCA1E00ACE4D1 /* walkthroughs_2.png in Resources */,
+				B6E8C6A616EDCA1E00ACE4D1 /* walkthroughs_2@2x.png in Resources */,
+				B6E8C6A716EDCA1E00ACE4D1 /* walkthroughs_3.png in Resources */,
+				B6E8C6A816EDCA1E00ACE4D1 /* walkthroughs_3@2x.png in Resources */,
+				B6E8C6A916EDCA1E00ACE4D1 /* walkthroughs_4.png in Resources */,
+				B6E8C6AA16EDCA1E00ACE4D1 /* walkthroughs_4@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +270,7 @@
 				B629D98516EDA9A8002D80E4 /* main.m in Sources */,
 				B629D98916EDA9A8002D80E4 /* AppDelegate.m in Sources */,
 				B629D99216EDA9A8002D80E4 /* ViewController.m in Sources */,
+				B629D99E16EDAABA002D80E4 /* WZGuideViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +358,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "WZGuideViewController/WZGuideViewController-Prefix.pch";
 				INFOPLIST_FILE = "WZGuideViewController/WZGuideViewController-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -274,6 +370,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "WZGuideViewController/WZGuideViewController-Prefix.pch";
 				INFOPLIST_FILE = "WZGuideViewController/WZGuideViewController-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -298,6 +395,7 @@
 				B629D99A16EDA9A8002D80E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
