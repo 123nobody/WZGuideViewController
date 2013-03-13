@@ -112,6 +112,7 @@
 
 + (void)show
 {
+    [[WZGuideViewController sharedGuide].pageScroll setContentOffset:CGPointMake(0.f, 0.f)];
 	[[WZGuideViewController sharedGuide] showGuide];
 }
 
@@ -144,13 +145,14 @@
 {
     [self hideGuide];
     [[NSUserDefaults standardUserDefaults] setBool:NO forKey:@"firstLaunch"];
+    [[NSUserDefaults standardUserDefaults] synchronize];
 }
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
     
-    NSArray *imageNameArray = [NSArray arrayWithObjects:@"walkthroughs_1", @"walkthroughs_2", @"walkthroughs_3", @"walkthroughs_4", nil];
+    NSArray *imageNameArray = [NSArray arrayWithObjects:@"1", @"2", @"3", @"4", nil];
     
     
     _pageScroll = [[UIScrollView alloc] initWithFrame:CGRectMake(0, 0, 320, 480)];
